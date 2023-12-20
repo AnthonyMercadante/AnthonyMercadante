@@ -2,9 +2,16 @@
 
 ## 🎓 About Me
 
-<p align="justify" style="font-family: times new roman">I'm a 3rd Year Software Development student at Mohawk College, specializing in XR Development. Passionate about Virtual Reality (VR) and Augmented Reality (AR), I have the knowledge and skills to build custom software for clients. Learning new things always excites me, and I'm constantly seeking new challenges to expand my horizons.</p>
+<p align="justify" style="font-family: times new roman">
+I am currently a 3rd Year Software Development student at Mohawk College, with a strong focus on diverse aspects of software engineering and web development. My academic journey has equipped me with a solid foundation in various programming languages and frameworks, including Java, .NET, and mobile web programming. I have also delved into HTML, CSS, client-side and server-side web programming, and have a keen understanding of software quality & testing. My proficiency extends to database theory, systems analysis, and software engineering project management. 
 
-- 🔭 **Currently Working As**: XR Developer  
+Furthermore, I have practical experience in Android application development, Oracle PL/SQL programming, and advanced areas like machine learning and analytics. During my cooperative education experience, I gained valuable industry exposure in XR Development, enhancing my skills in building custom software solutions.
+
+I'm dedicated to continual learning and professional growth, actively seeking opportunities to apply my knowledge in real-world scenarios and challenging projects. My educational background and hands-on experience make me a versatile and technically adept candidate, ready to contribute effectively in various software development roles.
+</p>
+
+
+- 🔭 **Currently Working As**: Full Stack Software Developer 
 - 🌱 **Currently Learning**: Unreal Engine
 - 📫 **Reach Me At**: Anthony.Mercadante@ProtonMail.com
 - 🌍 **Portfolio**: [My Portfolio](https://anthonymercadante.github.io/)
