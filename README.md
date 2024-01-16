@@ -33,10 +33,11 @@ I'm a 3rd Year Software Development student at Mohawk College, currently engaged
   <a href="https://youtube.com/@anthonymercadante695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="25" width="35" /></a>
 </p>
 
+---
+
 ### 🎯 Seeking Opportunities
 - 🔍 **Co-op/Internship**: Actively looking for a Summer Co-op/Internship position in software development or related fields.
 
 ---
 
 Feel free to reach out if you're interested in collaborating on a project or just want to say hi! 😊
-```
