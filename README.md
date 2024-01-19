@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>, I'm Anthony Mercadante</h1>
 
-## 🌟 About Me
+## 🌟 About Me ![](https://komarev.com/ghpvc/?username=AnthonyMercadante&color=blue)
 
 <p align="justify" style="font-family: times new roman">
 I'm a 3rd Year Software Development student at Mohawk College, currently engaged in a range of exciting projects that span artificial intelligence, software development, and analytics. My academic and professional journey is driven by a passion for innovation and a commitment to excellence in software engineering and web development.
