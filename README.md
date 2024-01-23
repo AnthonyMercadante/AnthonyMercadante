@@ -22,7 +22,7 @@ I'm a 3rd Year Software Development student at Mohawk College, currently engaged
 ### 📬 Reach Out
 - 📧 **Email**: [Anthony.Mercadante@ProtonMail.com](mailto:Anthony.Mercadante@ProtonMail.com)
 - 🌐 **Portfolio**: [My Portfolio](https://anthonymercadante.github.io/)
-- 📄 **Resume**: [Anthony Mercadante CV]([https://drive.google.com/file/d/1U2_lsU1qbDaixPtnOEek1an9nR1JJXAm/view?usp=sharing](https://drive.google.com/file/d/1ykW-TJ_x986txLmadBd9lZX6spYo87zd/view?usp=sharing))
+- 📄 **Resume**: [Anthony Mercadante CV](https://drive.google.com/file/d/1ykW-TJ_x986txLmadBd9lZX6spYo87zd/view?usp=sharing)
 
 ### 🌍 Connect with Me
 
