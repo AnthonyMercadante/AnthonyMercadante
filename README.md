@@ -33,7 +33,7 @@ My enthusiasm extends beyond the classroom and the workplace; I like to immerse 
 <p align="left">
   <a href="https://www.instagram.com/_anthonymercadante/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="25" width="35" /></a>
   <a href="https://www.linkedin.com/in/anthony-mercadante-022367113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="35" /></a>
-  <a href="https://twitter.com/AnthMercadante" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="25" width="35" /></a>
+  <a href="https://twitter.com/AnthMercadante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="25" width="35" /></a>
   <a href="https://youtube.com/@anthonymercadante695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="25" width="35" /></a>
 </p>
 
