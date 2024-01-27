@@ -3,7 +3,11 @@
 ## 🌟 About Me &nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=AnthonyMercadante&color=blue)
 
 <p align="justify" style="font-family: times new roman">
-I'm a 3rd Year Software Development student at Mohawk College, currently engaged in a range of exciting projects that span artificial intelligence, software development, and analytics. My academic and professional journey is driven by a passion for innovation and a commitment to excellence in software engineering and web development.
+I'm a software developer with a love for technology that has been with me since my earliest days. Currently in my 3rd year at Mohawk College, I am pursuing an advanced diploma in Software Development. My journey with technology began at the age of 14 when I started programming as a hobby. Back then, coding was a personal pursuit, driven by curiosity and the joy of creating things.
+
+I am engaged in a range of exciting projects spanning artificial intelligence, software development, and analytics. My academic and professional journey is not just about achieving goals but is driven by a passion for innovation and a commitment to excellence in software engineering and web development. What sets me apart is my love for coding and technology. While many see it as a means to an end, for me, it's a pursuit of passion.
+
+My enthusiasm extends beyond the classroom and the workplace; I like to immerse myself in coding, discussing industry trends, and constantly learning, even in my leisure time. This enthusiasm, I've realized, is somewhat rare. In essence, I am not just a software developer; I am someone who lives and breathes technology. Every line of code I write is a step towards getting better, a testament to my commitment to growth, and an opportunity to contribute positively to the world. Welcome to my journey.
 </p>
 
 ### 🚀 Current Engagements
@@ -29,7 +33,7 @@ I'm a 3rd Year Software Development student at Mohawk College, currently engaged
 <p align="left">
   <a href="https://www.instagram.com/_anthonymercadante/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="25" width="35" /></a>
   <a href="https://www.linkedin.com/in/anthony-mercadante-022367113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="35" /></a>
-  <a href="https://twitter.com/AnthMercadante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="25" width="35" /></a>
+  <a href="https://twitter.com/AnthMercadante" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="25" width="35" /></a>
   <a href="https://youtube.com/@anthonymercadante695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="25" width="35" /></a>
 </p>
 
