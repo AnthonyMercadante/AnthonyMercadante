@@ -13,7 +13,6 @@ My enthusiasm extends beyond the classroom and the workplace; I like to immerse 
 ### 🚀 Current Engagements
 - 🧭 **Capstone Project**: Working on 'Culinary Compass', a web app aimed at reducing food waste and enhancing cooking experiences using OpenAI's GPT.
 - ✈️ **Research Team Member**: Developing AI for aircraft identification in collaboration with the Canadian Air Force, powered by a grant received by the college.
-- ⚽ **Project Developer at [arc.link](https://arc.link/)**: Building a club registration system for sports organizations over a 14-week period.
 - 📊 **Skill Enhancement**: Actively learning analytics and metrics in Python, Android app development in Android Studio, and Oracle PL/SQL programming.
 
 ### 🌱 Learning & Growth
