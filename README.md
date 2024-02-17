@@ -1,46 +1,30 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>, I'm Anthony Mercadante</h1>
+<h1 align="center">Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Anthony Mercadante</h1>
 
-## 🌟 About Me &nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=AnthonyMercadante&color=blue)
-
-<p align="justify" style="font-family: times new roman">
-I'm a software developer with a love for technology that has been with me since my earliest days. Currently in my 3rd year at Mohawk College, I am pursuing an advanced diploma in Software Development. My journey with technology began at the age of 14 when I started programming as a hobby. Back then, coding was a personal pursuit, driven by curiosity and the joy of creating things.
-
-I am engaged in a range of exciting projects spanning artificial intelligence, software development, and analytics. My academic and professional journey is not just about achieving goals but is driven by a passion for innovation and a commitment to excellence in software engineering and web development. What sets me apart is my love for coding and technology. While many see it as a means to an end, for me, it's a pursuit of passion.
-
-My enthusiasm extends beyond the classroom and the workplace; I like to immerse myself in coding, discussing industry trends, and constantly learning, even in my leisure time. This enthusiasm, I've realized, is somewhat rare. In essence, I am not just a software developer; I am someone who lives and breathes technology. Every line of code I write is a step towards getting better, a testament to my commitment to growth, and an opportunity to contribute positively to the world. Welcome to my journey.
+<p align="center">
+  <a href="mailto:Anthony.Mercadante@ProtonMail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://anthonymercadante.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/anthony-mercadante-022367113/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/AnthMercadante"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.instagram.com/_anthonymercadante/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://youtube.com/@anthonymercadante695"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
-### 🚀 Current Engagements
-- 🧭 **Capstone Project**: Working on 'Culinary Compass', a web app aimed at reducing food waste and enhancing cooking experiences using OpenAI's GPT.
-- ✈️ **Research Team Member**: Developing AI for aircraft identification in collaboration with the Canadian Air Force, powered by a grant received by the college.
-- 📊 **Skill Enhancement**: Actively learning analytics and metrics in Python, Android app development in Android Studio, and Oracle PL/SQL programming.
+## 🚀 About Me
+Software developer with a passion for technology, currently in my 3rd year at Mohawk College pursuing an advanced diploma in Software Development. I started programming at 14, driven by curiosity and the joy of creating. Engaged in AI, software development, and analytics projects, I'm passionate about innovation and committed to excellence.
 
-### 🌱 Learning & Growth
-- 🌟 **Current Focus**: Deepening my understanding in several key areas:
-  - 📊 **Ethereum**: Exploring the capabilities of Ethereum for blockchain applications.
-  - 🌐 **Laravel (PHP Framework)**: Enhancing my back-end development skills with Laravel.
-  - 🔥 **VueJS**: Diving into the dynamic world of front-end development using VueJS.
-  - 🎨 **Tailwind**: Mastering Tailwind for efficient and responsive CSS styling.
+## 🌟 Engagements & Learning
+- **Capstone Project**: Culinary Compass, a web app to reduce food waste.
+- **Research**: AI for aircraft identification with the Canadian Air Force.
+- **Learning**: Ethereum, Laravel, VueJS, and Tailwind for full-stack development skills.
 
-### 📬 Reach Out
-- 📧 **Email**: [Anthony.Mercadante@ProtonMail.com](mailto:Anthony.Mercadante@ProtonMail.com)
-- 🌐 **Portfolio**: [My Portfolio](https://anthonymercadante.github.io/)
-- 📄 **Resume**: [Anthony Mercadante CV](https://drive.google.com/file/d/1ykW-TJ_x986txLmadBd9lZX6spYo87zd/view?usp=sharing)
+## 📬 Contact & Connect
+- 📧 **Email**: [Send an Email](mailto:Anthony.Mercadante@ProtonMail.com)
+- 🌐 **Portfolio**: [View Portfolio](https://anthonymercadante.github.io/)
+- 📄 **Resume**: [Download CV](https://drive.google.com/file/d/1ykW-TJ_x986txLmadBd9lZX6spYo87zd/view?usp=sharing)
 
-### 🌍 Connect with Me
+## 🎯 Opportunities
+Seeking Summer Co-op/Internship in software development or related fields. Interested in collaborating? Let's connect!
 
-<p align="left">
-  <a href="https://www.instagram.com/_anthonymercadante/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="25" width="35" /></a>
-  <a href="https://www.linkedin.com/in/anthony-mercadante-022367113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="35" /></a>
-  <a href="https://twitter.com/AnthMercadante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="25" width="35" /></a>
-  <a href="https://youtube.com/@anthonymercadante695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="25" width="35" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnthonyMercadante&color=blue&style=flat-square" alt="profile views"/>
 </p>
-
----
-
-### 🎯 Seeking Opportunities
-- 🔍 **Co-op/Internship**: Actively looking for a Summer Co-op/Internship position in software development or related fields.
-
----
-
-Feel free to reach out if you're interested in collaborating on a project or just want to say hi! 😊
