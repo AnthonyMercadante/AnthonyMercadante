@@ -22,9 +22,6 @@ Software developer with a passion for technology, currently in my 3rd year at Mo
 - 🌐 **Portfolio**: [View Portfolio](https://anthonymercadante.github.io/)
 - 📄 **Resume**: [Download CV](https://drive.google.com/file/d/1ykW-TJ_x986txLmadBd9lZX6spYo87zd/view?usp=sharing)
 
-## 🎯 Opportunities
-Seeking Summer Co-op/Internship in software development or related fields. Interested in collaborating? Let's connect!
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnthonyMercadante&color=blue&style=flat-square" alt="profile views"/>
 </p>
