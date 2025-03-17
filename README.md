@@ -68,7 +68,7 @@ Software developer from Mississauga, ON, currently pursuing an advanced diploma 
 
 ---
 
-## 🌟 Projects
+## 🌟 Public Projects
 
 ### [Aircraft Identifier AI](https://github.com/AnthonyMercadante/AircraftIdentificationAI)
 - Created a **machine learning** model to detect and identify aircraft.
