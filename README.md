@@ -9,7 +9,14 @@
 </p>
 
 ## 🚀 About Me
-Software developer from Mississauga, ON, currently pursuing an advanced diploma in **Computer Systems Technology – Software Development** at Mohawk College (graduating December 2024). I began programming at 14 and have grown passionate about AI, software development, and analytics. I enjoy tackling challenging problems, exploring new technologies, and developing impactful applications.
+
+I'm a **software developer** with a love for technology that has been with me since my earliest days.
+
+My journey with technology began at the age of **14**, when I started programming as a hobby—fueled by curiosity and the sheer joy of creating.
+
+What sets me apart is that **coding isn’t just a job for me—it's a passion.** While many view software development as a means to an end, for me, it’s a way of life. I thrive on exploring new technologies, discussing industry trends, and continuously learning, even in my free time.
+
+In essence, I’m not just a developer; **I live and breathe technology.** Every line of code I write is a testament to my commitment to growth and an opportunity to make a positive impact on the world. Welcome to my journey!
 
 ---
 
