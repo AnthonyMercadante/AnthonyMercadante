@@ -50,7 +50,7 @@ Full‑stack & XR developer with **hands‑on production experience** across Saa
 
 | Role & Org | Key Wins |
 |------------|----------|
-| **Independent AI/ML Engineer — Clarity Hosted Solutions**<br><small>Jul 2025 → present (contract)</small> | • Designing & deploying **LLM/Vertex AI** solutions (GCP).<br>• Building generative‑AI prototypes (text‑to‑SQL, doc summarization).<br>• MLOps: model fine‑tuning, CI/CD, infra‑as‑code.
+| **Independent AI/ML Engineer — Clarity Hosted Solutions**<br><small>Jul 2025 → present (contract)</small> | • Designing & deploying **LLM/Vertex AI** solutions (GCP).<br>• Building generative‑AI prototypes.<br>• MLOps: model fine‑tuning, CI/CD, infra‑as‑code.
 | **Software Engineer Intern — BASL Inc**<br><small>May 2024 – Sep 2024</small> | • Vue 3 + Laravel spreadsheet ingest (10 k rows → DB < 30 s).<br>• Integrated Twilio Voice/SMS; Dockerized stack; 95 % test coverage. |
 | **XR Developer (Co‑op) — Mohawk College**<br><small>Jan 2023 – Aug 2023</small> | • Shipped VR water‑flow simulator & cell‑tower repair training in Unity. |
 | **Lead Hand — Purolator**<br><small>Sep 2021 – Present</small> | • Zero mis‑scans in 24 months; trained new hires; +12 % trailer punctuality. |
