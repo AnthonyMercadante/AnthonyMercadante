@@ -27,11 +27,11 @@ I graduated **Dean’s List (Software Development, Dec 2024)** and currently wor
 
 ---
 
-# 🧠 OpenMemoryAgent
+# 🧠 OpenMemory
 
 The project I'm most focused on right now.
 
-OpenMemoryAgent explores what AI memory might look like if **the storage layer enforced ownership instead of the application server**.
+OpenMemory explores what AI memory might look like if **the storage layer enforced ownership instead of the application server**.
 
 In most AI systems, conversation memory is controlled by the platform that hosts the model.
 
@@ -47,7 +47,7 @@ Relationships between memories strengthen or decay over time using **Physarum-in
 The goal is to explore whether AI memory can become **user-owned infrastructure instead of a feature of a specific AI provider**.
 
 Repo  
-https://github.com/Raethexn-Technologies/openmemoryagent
+https://github.com/Raethexn-Technologies/openmemory
 
 ---
 
