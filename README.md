@@ -1,6 +1,10 @@
 <h1 align="center">
-Hi — I'm Anthony Mercadante 👋
+Anthony Mercadante 👋
 </h1>
+
+<p align="center">
+AI Systems • Memory Infrastructure • Natural Language Interfaces
+</p>
 
 <p align="center">
   <a href="mailto:Anthony.Mercadante@ProtonMail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
@@ -9,69 +13,109 @@ Hi — I'm Anthony Mercadante 👋
   <a href="https://www.instagram.com/anthony_mercadante/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"></a>
 </p>
 
----
-
-## About me
-
-I'm a developer interested in **how humans interact with software as AI becomes the interface**.
-
-I started programming around **age 14**, mostly out of curiosity.  
-That curiosity never really stopped — most of my time now goes into building systems around:
-
-- AI agents
-- natural language interfaces
-- persistent AI memory
-- cloud infrastructure for ML systems
-
-I graduated **Dean’s List (Software Development, Dec 2024)** and currently work on AI and cloud systems while continuing to explore these ideas through independent projects.
+<p align="center">
+<b>Building toward user-owned AI systems.</b>
+</p>
 
 ---
 
-# 🧠 OpenMemory
+## About
 
-The project I'm most focused on right now.
+I build systems around a simple idea:
 
-OpenMemory explores what AI memory might look like if **the storage layer enforced ownership instead of the application server**.
+**AI is becoming the interface to software.**
 
-In most AI systems, conversation memory is controlled by the platform that hosts the model.
+My work focuses on what comes after that shift:
 
-This project experiments with a different architecture:
+- how users interact with systems through language  
+- how memory persists across those interactions  
+- who owns that memory  
+- and how these systems are deployed at scale  
 
-- the **browser holds the signing key**
-- memory writes are **cryptographically signed by the user**
-- the server **cannot impersonate the user**
-- a **typed knowledge graph** evolves from the stored memories
+I work across **AI engineering and cloud infrastructure**, both professionally and through my own projects under **Raethexn Technologies**.
 
-Relationships between memories strengthen or decay over time using **Physarum-inspired conductance dynamics**, allowing the graph to evolve based on how the system actually retrieves information.
+Recent work includes:
 
-The goal is to explore whether AI memory can become **user-owned infrastructure instead of a feature of a specific AI provider**.
+- building real-time AI agents for live conversations  
+- designing memory architectures for LLM systems  
+- developing production-ready AI systems on GCP  
+
+---
+
+## 🧠 OpenMemory
+
+OpenMemory explores a different model for AI memory:
+
+> **What if memory was owned by the user, not the application?**
+
+Instead of storing conversation history inside app databases, OpenMemory experiments with:
+
+- **client-side identity + signing**  
+- **user-authorized memory writes**  
+- **server as a relay, not a source of truth**  
+- a **persistent, evolving knowledge graph**  
+
+Memory is treated as infrastructure — not an application feature.
+
+It also explores adaptive memory retrieval using  
+**Physarum-inspired conductance dynamics**, allowing relationships between memories to strengthen or decay over time.
+
+This is an early step toward:
+
+- portable AI memory  
+- cross-application identity  
+- user-controlled context  
 
 Repo  
-https://github.com/Raethexn-Technologies/openmemory
+https://github.com/Raethexn-Technologies/OpenMemory
 
 ---
 
-## Other things I build
+## 🏗️ Systems I'm Building
 
-Most of my repositories are experiments exploring pieces of larger ideas.
+### AI Meeting Agents
 
-### NL2SQL Chatbot
+Real-time AI agents that joins live conversations and respond contextually.
 
-A natural-language interface for SQL databases using open-source models.
+- live transcription + wake-word detection  
+- LLM routing + response generation  
+- real-time speech synthesis  
+- conversation memory + summarization  
+- designed for live environments with strict latency constraints  
 
-The system translates plain English questions into SQL queries and executes them locally.
+Built with:
+
+- WebSockets + streaming audio  
+- LLM orchestration (Gemini / OpenAI)  
+- production cloud infrastructure (GCP)  
 
 ---
 
-### AircraftIdentificationAI
+### AI POCs
 
-A convolutional neural network trained to classify aircraft images.
+I work on applied AI systems for real-world use cases, including:
+
+- NL → SQL systems for querying large databases  
+- document + knowledge extraction pipelines  
+- AI training assistants with RAG  
+- cost optimization + architecture design for LLM systems  
+
+These systems are built for **deployment in real environments, not demos**.
 
 ---
 
-### Void
+## 🧪 Experiments
 
-A procedural FPS experiment built in Unity exploring fractal terrain generation and emergent environments.
+Most of my repos explore components of larger systems.
+
+### NL2SQL Chatbot  
+Natural language → SQL generation with execution layer.
+
+### AircraftIdentificationAI  
+CNN-based classification of aircraft types.
+
+### Void  
+Procedural FPS experiment exploring emergent environments.
 
 ---
 
@@ -79,43 +123,45 @@ A procedural FPS experiment built in Unity exploring fractal terrain generation 
 
 **AI / Data**
 
-- Python
-- PyTorch
-- CUDA
-- HuggingFace
-- LLM APIs
+- Python  
+- PyTorch  
+- CUDA  
+- HuggingFace  
+- LLM APIs  
 
 **Cloud / Backend**
 
-- GCP
-- Docker
-- Node
-- Laravel
-- PostgreSQL
+- GCP  
+- Docker  
+- Node  
+- Laravel  
+- PostgreSQL  
 
 **Frontend**
 
-- Vue 3
-- Tailwind
-- Inertia
+- Vue 3  
+- Tailwind  
+- Inertia  
 
 **XR / Simulation**
 
-- Unity
-- Unreal Engine
+- Unity  
+- Unreal Engine  
 
 ---
 
-## Current areas of interest
+## 🧭 Direction
 
-Lately I've been exploring:
+Current focus areas:
 
-- AI agent architectures
-- memory systems for LLMs
-- decentralized or portable AI infrastructure
-- natural language interfaces for software
+- AI agent architectures  
+- persistent memory systems  
+- user-owned AI infrastructure  
+- natural language as a system interface  
 
-Many of my repos are experiments around these ideas.
+The long-term goal is to move toward:
+
+> **software that is conversational, stateful, and owned by the user**
 
 ---
 
